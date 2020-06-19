@@ -1,0 +1,31 @@
+#box{
+  text-align:center;
+  padding:0 25% 25% 25%;
+}
+h1{
+  font-size: 6rem;
+}
+.dec{
+ color:red;
+}
+.inc{
+  color:green;
+}
+.zero{
+  text-align: center;
+padding-top: 55%;
+padding-right: 10px;
+}
+body{
+  background-color: #D6BEA2;
+}
+.row{
+  margin: 0 20%;
+}
+h2{
+  text-align: center;
+  font-size: 3.1rem;
+  color:#B95136;
+  text-shadow: 1px 1px black;
+
+}
